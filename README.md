@@ -16,6 +16,11 @@ Colaboradores/as:
 ### Cambridge Learning English
 [Link](https://www.cambridgeenglish.org/learning-english/)
 
+### Roadmap
+Este roadmap contém dicas de estudo. Recomendamos fortemente as páginas 28 e 29, que trazem mais links de recursos de apredizado.
+
+[Link](https://roadmapforenglishlearning.wordpress.com/wp-content/uploads/2021/11/booklet-roadmap.pdf)
+
 
 ## Testes de nivelamento
 [Teste 1](https://www.examenglish.com/leveltest/index.php)
@@ -94,9 +99,12 @@ Lista de assuntos importantes para compreensão da linguagem.
 # Exercícios
 
 
-# Vocabulário de tecnologia
-[Wikipedia](https://pt.wiktionary.org/wiki/Vocabul%C3%A1rio:Ingl%C3%AAs/Gloss%C3%A1rio_de_Inform%C3%A1tica_Ingl%C3%AAs-Portugu%C3%AAs)
 
+# Vocabulário
+[Exercícios e jogos separados por nível de aprendizagem](https://learnenglish.britishcouncil.org/vocabulary)
+
+## Vocabulário de tecnologia
+[Wikipedia](https://pt.wiktionary.org/wiki/Vocabul%C3%A1rio:Ingl%C3%AAs/Gloss%C3%A1rio_de_Inform%C3%A1tica_Ingl%C3%AAs-Portugu%C3%AAs)
 
 ## Glossários em inglês
 [Link](https://glossarytech.com/)

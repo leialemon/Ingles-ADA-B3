@@ -7,7 +7,8 @@ O objetivo deste repositório é ser uma construção coletiva de compartilhamen
 [^1]: Para sugerir mudanças ou fazer correções, crie um Problema/Issue neste repositório.
   Para se tornar um/a colaborador/a, entre em contato através do e-mail julianabarrosf@protonmail.com.
 
-Colaboradores/as:
+### Colaboradores/as:
+
 
 ## Cursos
 ### BBC Learning English
@@ -15,6 +16,13 @@ Colaboradores/as:
 
 ### Cambridge Learning English
 [Link](https://www.cambridgeenglish.org/learning-english/)
+
+### Nação fluente
+Tem alguns recursos gratuitos:
+
+[Este cronograma](https://www.nacaofluente.com/blog/ingles-para-quem-tem-pressa/) compila vídeo aulas e outros recursos em planos de estudo que vão de 3 a 12 meses.
+
+[Compilado](https://www.nacaofluente.com/blog/como-aprender-ingles-no-youtube/?video=1) de vídeo aulas para os cronogramas acima.
 
 ### Roadmap
 Este roadmap contém dicas de estudo. Recomendamos fortemente as páginas 28 e 29, que trazem mais links de recursos de apredizado.

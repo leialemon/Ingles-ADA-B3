@@ -3,6 +3,9 @@ Repositório com recursos gratuitos para ajudar os colegas da turma 1153 do prog
 
 ### Contribuições
 O objetivo deste repositório é ser uma construção coletiva de compartilhamento de conhecimento. Contribuições são sempre muito bem-vindas![¹]
+[¹]: Para sugerir mudanças ou fazer correções, crie um Problema/Issue neste repositório.
+Para se tornar um/a colaborador/a, entre em contato através do e-mail julianabarrosf@protonmail.com.
+
 Colaboradores/as:
 
 ## Cursos
@@ -62,5 +65,3 @@ Lista de assuntos importantes para compreensão da linguagem.
 [Link](https://glossarytech.com/)
 [Link](https://www.dataprise.com/it-glossary/)
 
-[¹]: Para sugerir mudanças ou fazer correções, crie um Problema/Issue neste repositório.
-Para se tornar um/a colaborador/a, entre em contato através do e-mail julianabarrosf@protonmail.com.
